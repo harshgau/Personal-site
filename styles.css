@@ -1,0 +1,111 @@
+body{
+  margin: 0px;
+  text-align: center;
+}
+
+h1{
+  margin: 50px auto 0px auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+h2{
+  font-size: 2.5rem;
+  font-family: 'Pacifico', cursive;
+color: #66BFBF;
+}
+h3{
+  font-family: 'Pacifico', cursive;
+  color: #11999E;
+}
+a{
+  color: #11999E;
+  font-size: 20px;
+  margin: 5px 20px;
+  font-family: 'Baloo Bhai 2', cursive;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+p{
+  margin-top: 0px;
+margin-bottom: 0px;
+font-family: 'Baloo Bhai 2', cursive;
+line-height: 2;
+}
+hr{
+  border:  dotted #EAF6F6;
+  border-bottom: none;
+  width: 5%;
+  margin: 50px auto;
+}
+#s{
+  font-weight: normal;
+
+}
+.top-container{
+  background-color: #CDF0EA;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container{
+  margin: 100px 0px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+padding-top: 20px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+}
+.my-image{
+  width: 20%;
+  border-radius: 100%
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.computer-image{
+  width: 17%;
+  float: left;
+  margin-right: 30px;
+}
+.chilli-image{
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+.skills{
+  text-align: left;
+}
+.hot-wings{
+  text-align: right;
+}
+.contact-btn{
+  background-color:#11999E;
+  margin: 20px auto;
+  padding: 3px 3px;
+  border-radius: 10%;
+  border: 3px solid red;
+  font-size: 20px;
+  color:#EAF6F6;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+.contact-btn:hover{
+  background-color: #2bc4ad;
+}
+.copiright{
+  color: #EAF6F6;
+  padding: 10px 30px;
+}
